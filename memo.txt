@@ -1,0 +1,2 @@
+compile commands
+clang++ <TU> -std=c++20 -O2
